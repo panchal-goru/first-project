@@ -1,0 +1,698 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+	
+	.section-head{
+		flex-direction:column;
+	}
+	.section-logo{
+		flex-basis:100%;
+		margin:0px 0px 20px 0px;
+	}
+	.section-logo img{
+		display:block;
+		margin:auto;
+	}
+	.hiring-img img{
+		height:70px !important;
+	}
+	.family1 h1{
+		font-size: 45px !important;
+	}
+	.section-nav{
+		display:none;
+	}
+	.image img{
+		font-size: 250px !important;
+	}
+	.section-btns{
+       flex-basis: 100%;
+       margin:5px 10px;
+	}
+	.section-btns button{
+		display: block;
+		margin: auto;
+	}
+	.btn1{
+	width:40%;
+	height:40px;
+	border:1px solid gray;
+	border-radius:5px;
+	background:white;
+	font-size:16px;
+	color:gray;
+	margin-left:6px;
+    }
+    .btn1:hover{
+	background:#2699fb; 
+	color:white;
+    }
+    .btn2{
+	width:40%;
+	height:40px;
+	border-radius:5px;
+	font-size:16px;
+	color:white;
+	margin-left:10px;
+	background:#2699fb;;
+	border:none;
+    }
+    .btn2:hover{
+	background:white;
+	border: 1px solid #2699fb;
+	color: #2699fb;
+    }
+
+	.banner-img{
+		flex-direction:column;
+	}
+	.content{
+		flex-basis:100%;
+		margin:10px 20px;
+	    
+	}
+	.content p{
+		padding:0px;
+	}
+	.content h4{
+		padding:0px;
+	}
+	.content h1{
+		padding:0px;
+	}
+	.image{
+		flex-basis:100%;
+		margin:10px 10px;
+	}
+	.image img{
+		display:block;
+		margin: auto;
+	}
+	.complete{
+		flex-direction:column;
+		margin-top:20px;
+	}
+	.btn15{
+		margin:0px 0px 15px 10px;
+	}
+	.btn20{
+		margin:0px 0px 0px 10px;
+	}
+	.hiring{
+		flex-direction:column;
+	}
+	.hiring-img{
+		flex-basis:100%;
+		margin:10px 30px;
+	}
+	.build-u h1{
+		text-align:left;
+		padding:0px 0px 15px 10px;
+	}
+	.build-u p{
+		text-align:left;
+		padding:0px 0px 15px 10px;
+	}
+	.build-u2{
+		flex-direction:column;
+		padding-bottom:50px;
+		margin:10px !important;
+	}
+	.upskilling{
+		flex-direction:column;
+		padding-bottom:30px;
+	}
+	.upskilling img{
+		padding-top:0px;
+	}
+	.btn50{
+	max-width:300px;
+	height:40px;
+	color:white;
+	background:#2699fb;
+	margin:20px 0px 20px 10px;
+	font-size:17px;
+	border: none;
+	border-radius:5px;
+    }
+    .class-box{
+    	flex-direction:column;
+    	padding-bottom:30px;
+    }
+    .online-class h1{
+    	padding:30px 0px 30px 20px;
+    }
+    .box{
+    	flex-basis:100%;
+    	margin:20px 10px 0px 10px;
+    }
+    .owner{
+    	flex-direction:column;
+    	padding-bottom:40px;
+    }
+    .owner-image{
+    	flex-direction:100%;
+    	margin:0px 10px;
+    }
+    .owner-content{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .teach-head3{
+    	flex-direction:column;
+    	padding-bottom:30px;
+    }
+    .ques{
+    	flex-direction:column-reverse;
+    }
+    .questions-bank{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .questions-bank1{
+    	flex-direction:100%;
+    	margin:0px 10px;
+    }
+    .all-place{
+    	flex-direction:column;
+    }
+    .placement h1{
+    	padding:20px 10px;
+    }
+    .place1 p{
+    	padding:10px 10px;
+    }
+    .btn55{
+         margin:20px 20px;
+     }
+    .place-content{
+    	flex-direction:column;
+    	padding-bottom:30px;
+    }
+    .place-img{
+    	margin:15px 10px;
+    }
+    .learners h1{
+    	text-align:left;
+    	padding:10px 10px;
+    }
+    .learners p{
+    	text-align:left;
+    	padding:10px 10px;
+    }
+    .learner-students{
+    	flex-direction:column;
+    }
+    .students{
+    	margin:15px 10px;
+    
+    }
+    .milli{
+    	flex-direction:column;
+    	padding-bottom:10px;
+    }
+    .millions-family{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .millions-family1{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .parts h1{
+    	font-size: 35px !important;
+    }
+    .millions-family1 img{
+    	padding-top:10px;
+    }
+    .youtube-awards{
+    	flex-direction:column;
+    }
+    .family1{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .online-class h1{
+    	font-size: 30px !important;
+    }
+    .family1 h1{
+    	font-size:50px;
+    }
+    .upskilling1 h1{
+    	font-size: 30px !important;
+    }
+    .family1 h1 span {
+    	font-size:40px;
+    }
+    .owner-content h1{
+    	font-size: 30px !important;
+    }
+    .seen{
+    	padding-top:0px;
+    	flex-direction:column;
+    }
+    .seen-1{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    	padding-top:20px;
+    }
+    .seen2{
+    	flex-basis:100%;
+    	margin:0px 20px;
+    }
+    .footer-inner{
+    	flex-direction:column;
+    }
+    .footer-part1{
+    	flex-basis:100%;
+    	margin:10px 10px;
+    }
+    .footer-part2{
+    	flex-basis:100%;
+    	margin:10px 20px;
+    }
+    .all-over{
+    	max-width:300px;
+    }
+    .enter1{
+    	max-width:260px;
+    }
+    .email{
+    	max-width:260px;
+    }
+    .enter2{
+	width:40px;
+	position:absolute;
+	top:0px;
+	left:73%;
+	background:#ff9c00;
+	border-radius:50%;
+}
+    .footer-part3{
+    	flex-basis:100%;
+    	margin:10px 20px;
+    }
+    .upskilling1 img{
+    	height:300px !important;
+    }
+    .over1 img{
+    	height: 100px !important;
+    	margin: 5px !important;
+    }
+    .end-footer{
+    	flex-direction:column;
+    }
+    .end-part2{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .owner-image img{
+    	height:300px !important;
+    }
+    .questions-bank1 img{
+    	height: 400px !important;
+    }
+    .questions-bank1{
+    	padding-bottom: 10px !important;
+    }
+    .family1 span{
+    	font-size:35px !important;
+    }
+    .seen-1 h1{
+    	font-size: 32px !important;
+    }
+    .millions-family img{
+    	height:300px !important;
+    }
+    .family h1{
+    	font-size:190px !important;
+    }
+    .seen2 img{
+    	height:350px !important;
+    }
+    .learners h1{
+    	font-size: 30px !important;
+    }
+    .placement h1{
+    	font-size: 30px !important;
+    }
+    .teach-head h1{
+    	font-size: 30px !important;
+    }
+    .content h1{
+    	font-size: 34px !important;
+    }
+}
+
+
+
+
+
+
+
+@media only screen and (min-width:576px) and (max-width:991px){
+
+    .section-head{
+		flex-direction:column;
+	}
+	.section-logo{
+		flex-basis:100%;
+		margin:0px 0px 20px 0px;
+	}
+	.section-logo img{
+		display:block;
+		margin:auto;
+	}
+	.hiring-img img{
+		height:70px !important;
+	}
+	.family1 h1{
+		font-size: 45px !important;
+	}
+	.section-nav{
+		display:none;
+	}
+	.image img{
+		font-size: 250px !important;
+	}
+	.section-btns{
+       flex-basis: 100%;
+       margin:5px 10px;
+	}
+	.section-btns button{
+		display: block;
+		margin: auto;
+	}
+	.btn1{
+	width:40%;
+	height:40px;
+	border:1px solid gray;
+	border-radius:5px;
+	background:white;
+	font-size:16px;
+	color:gray;
+	margin-left:6px;
+    }
+    .btn1:hover{
+	background:#2699fb; 
+	color:white;
+    }
+    .btn2{
+	width:40%;
+	height:40px;
+	border-radius:5px;
+	font-size:16px;
+	color:white;
+	margin-left:10px;
+	background:#2699fb;;
+	border:none;
+    }
+    .btn2:hover{
+	background:white;
+	border: 1px solid #2699fb;
+	color: #2699fb;
+    }
+
+	/*.banner-img{
+		flex-direction:column;
+	}*/
+	.content{
+		flex-basis:100%;
+		margin:10px 20px;
+	    
+	}
+	.content p{
+		padding:0px;
+	}
+	.content h4{
+		padding:0px;
+	}
+	.content h1{
+		padding:0px;
+	}
+	.image{
+		flex-basis:100%;
+		margin:10px 10px;
+	}
+	.image img{
+		display:block;
+		margin: auto;
+	}
+	.complete{
+		flex-direction:column;
+		margin-top:20px;
+	}
+	.btn15{
+		margin:0px 0px 15px 10px;
+	}
+	.btn20{
+		margin:0px 0px 0px 10px;
+	}
+	.hiring{
+		flex-direction:row-reverse;
+		margin-bottom: 40px !important;
+	}
+	.hiring-img{
+		flex-basis:50%;
+		margin:10px 30px;
+	}
+	.hiring-img img{
+		height: 170px !important;
+		max-width: 200px !important;
+	}
+	.build-u h1{
+		text-align:left;
+		padding:0px 0px 15px 10px;
+	}
+	.build-u p{
+		text-align:left;
+		padding:0px 0px 15px 10px;
+	}
+	.build-u2{
+		flex-direction:row;
+		padding-bottom:50px;
+		margin:5px !important;
+	}
+	.upskilling{
+		flex-direction:column;
+		padding-bottom:30px;
+	}
+	.upskilling img{
+		padding-top:0px;
+	}
+	.btn50{
+	max-width:300px;
+	height:40px;
+	color:white;
+	background:#2699fb;
+	margin:20px 0px 20px 70px;
+	font-size:17px;
+	border: none;
+	border-radius:5px;
+    }
+    .class-box{
+    	flex-direction:row;
+    	padding-bottom:30px;
+    }
+    .online-class h1{
+    	padding:30px 0px 30px 20px;
+    }
+    .box{
+    	flex-basis:100%;
+    	margin:20px 10px 0px 10px;
+    }
+    .owner{
+    	flex-direction:column;
+    	padding-bottom:40px;
+    }
+    .owner-image{
+    	flex-direction:100%;
+    	margin:0px 10px;
+    }
+    .owner-content{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .teach-head3{
+    	flex-direction:row;
+    	padding-bottom:30px;
+    }
+    .ques{
+    	flex-direction:column-reverse;
+    }
+    .questions-bank{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .questions-bank1{
+    	flex-direction:100%;
+    	margin:0px 10px;
+    }
+    .all-place{
+    	flex-direction:column;
+    }
+    .placement h1{
+    	padding:20px 10px;
+    }
+    .place1 p{
+    	padding:10px 10px;
+    }
+    .btn55{
+         margin:20px 20px;
+     }
+    .place-content{
+    	flex-direction:row;
+    	padding-bottom:30px;
+    }
+    .place-img{
+    	margin:15px 10px;
+    }
+    .learners h1{
+    	text-align:left;
+    	padding:10px 10px;
+    }
+    .learners p{
+    	text-align:left;
+    	padding:10px 10px;
+    }
+    .learner-students{
+    	flex-direction:row;
+    }
+    .students{
+    	margin:15px 10px;
+    
+    }
+    .milli{
+    	flex-direction:column;
+    	padding-bottom:10px;
+    }
+    .millions-family{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .millions-family1{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .parts h1{
+    	font-size: 35px !important;
+    }
+    .millions-family1 img{
+    	padding-top:10px;
+    }
+    .youtube-awards{
+    	flex-direction:column;
+    }
+    .family1{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .online-class h1{
+    	font-size: 30px !important;
+    }
+    .family1 h1{
+    	font-size:50px;
+    }
+    .upskilling1 h1{
+    	font-size: 30px !important;
+    }
+    .family1 h1 span {
+    	font-size:40px;
+    }
+    .owner-content h1{
+    	font-size: 30px !important;
+    }
+    .seen{
+    	padding-top:0px;
+    	flex-direction:row;
+    }
+    .seen-1{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    	padding-top:20px;
+    }
+    .seen2{
+    	flex-basis:100%;
+    	margin:0px 20px;
+    }
+    .footer-inner{
+    	flex-direction:column;
+    }
+    .footer-part1{
+    	flex-basis:100%;
+    	margin:10px 10px;
+    }
+    .footer-part2{
+    	flex-basis:100%;
+    	margin:10px 20px;
+    }
+    .all-over{
+    	max-width:300px;
+    }
+    .enter1{
+    	max-width:260px;
+    }
+    .email{
+    	max-width:260px;
+    }
+    .enter2{
+	width:40px;
+	position:absolute;
+	top:0px;
+	left:73%;
+	background:#ff9c00;
+	border-radius:50%;
+}
+    .footer-part3{
+    	flex-basis:100%;
+    	margin:10px 20px;
+    }
+    .upskilling1 img{
+    	height:350px !important;
+    }
+    .over1 img{
+    	height: 100px !important;
+    	margin: 5px !important;
+    }
+    .end-footer{
+    	flex-direction:column;
+    }
+    .end-part2{
+    	flex-basis:100%;
+    	margin:0px 10px;
+    }
+    .owner-image img{
+    	height:300px !important;
+    }
+    .questions-bank1 img{
+    	height: 400px !important;
+    }
+    .questions-bank1{
+    	padding-bottom: 10px !important;
+    }
+    .family1 span{
+    	font-size:35px !important;
+    }
+    .seen-1 h1{
+    	font-size: 32px !important;
+    }
+    .millions-family img{
+    	height:300px !important;
+    }
+    .family h1{
+    	font-size:190px !important;
+    }
+    .seen2 img{
+    	height:350px !important;
+    }
+    .learners h1{
+    	font-size: 30px !important;
+    }
+    .placement h1{
+    	font-size: 30px !important;
+    }
+    .teach-head h1{
+    	font-size: 30px !important;
+    }
+    .content h1{
+    	font-size: 34px !important;
+    }
+}
